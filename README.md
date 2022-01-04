@@ -23,7 +23,7 @@ https://open.spotify.com/playlist/(here is your spotify playlist id) Get the spo
 
 👤 **Emrovsky**
 
-* Website: http://emrovsky.xyz
+* Website: https://emrovsky.xyz
 * Github: [@PythonGunlukleri](https://github.com/PythonGunlukleri)
 
 ## 🤝 Contributing
