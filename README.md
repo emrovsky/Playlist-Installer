@@ -13,6 +13,8 @@ click to the exe file and start it
 
 ## Usage
 
+![İmage](https://i.imgur.com/ryqlvtq.png)
+
 ```sh
 https://open.spotify.com/playlist/(here is your spotify playlist id) Get the spotify playlist id and paste it into the program!
 ```
@@ -36,4 +38,3 @@ Give a ⭐️ if this project helped you!
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
